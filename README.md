@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="400" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" />
 <h1 align="center">Hi 👋, I'm Prince Sunsara</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" />
